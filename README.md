@@ -23,6 +23,6 @@ A bus tracking system using a GPS module, GSM module, Arduino Uno, and an LCD di
 2. The Arduino Uno reads the GPS coordinates from the GPS module and stores them in its memory.
 3. The GSM module uses a SIM card to establish a cellular data connection with the Internet.
 4. The Arduino Uno sends the GPS coordinates to a cloud-based server or an online database using the GSM module and cellular data connection.
-5. A web application or mobile app retrieves the GPS coordinates from the cloud-based server or online database and processes them to display the bus's real-time location on a map.
+5. Mobile retrieves the GPS coordinates from the cloud-based server or online database and processes them to display the bus's real-time location on a map.
 6. The Arduino Uno retrieves the bus's location information from the web application or mobile app and displays it on the LCD display.
 This system allows bus operators and passengers to track the bus's location in real-time, making it easier to plan their travel routes and schedules..
